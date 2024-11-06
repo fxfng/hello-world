@@ -1,32 +1,38 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="第 1 页" id="WX9BByKLFPnlsHB8xhRr">
-    <mxGraphModel dx="1434" dy="866" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="822" dy="924" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="XImBKkJMli3rjIagbD9k-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="329" y="198" width="202" height="361" as="geometry" />
+        <mxCell id="XImBKkJMli3rjIagbD9k-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="336" y="197" width="188" height="451" as="geometry" />
         </mxCell>
-        <mxCell id="XImBKkJMli3rjIagbD9k-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="NEHlL95j2vhgicyCvUHz-1" target="NEHlL95j2vhgicyCvUHz-3">
+        <mxCell id="XImBKkJMli3rjIagbD9k-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="NEHlL95j2vhgicyCvUHz-1" target="NEHlL95j2vhgicyCvUHz-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NEHlL95j2vhgicyCvUHz-1" value="数据采集模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="370" y="212" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Ofjk2BHH19DnGGpQ5ZNn-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="NEHlL95j2vhgicyCvUHz-2" target="Ofjk2BHH19DnGGpQ5ZNn-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NEHlL95j2vhgicyCvUHz-2" value="数据存储模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="370" y="487" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XImBKkJMli3rjIagbD9k-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="NEHlL95j2vhgicyCvUHz-3" target="NEHlL95j2vhgicyCvUHz-4">
+        <mxCell id="XImBKkJMli3rjIagbD9k-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="NEHlL95j2vhgicyCvUHz-3" target="NEHlL95j2vhgicyCvUHz-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NEHlL95j2vhgicyCvUHz-3" value="数据解析模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="370" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XImBKkJMli3rjIagbD9k-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="NEHlL95j2vhgicyCvUHz-4" target="NEHlL95j2vhgicyCvUHz-2">
+        <mxCell id="XImBKkJMli3rjIagbD9k-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="NEHlL95j2vhgicyCvUHz-4" target="NEHlL95j2vhgicyCvUHz-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NEHlL95j2vhgicyCvUHz-4" value="数据集成模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="370" y="396" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ofjk2BHH19DnGGpQ5ZNn-1" value="数据应用模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="370" y="578" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
