@@ -31,11 +31,11 @@
         <mxCell id="0W0XDRW_tP-_jsXK928k-7" value="EBOM转化PBOM&lt;br&gt;PBOM设计" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0W0XDRW_tP-_jsXK928k-9" value="CAD生成初始EBOM&lt;br&gt;（零件编号、名称、数量、层级关系）&lt;br&gt;版本控制与变更管理&lt;br&gt;审核（工艺、采购确定可用性）&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="0W0XDRW_tP-_jsXK928k-9" value="CAD生成初始EBOM？&lt;br&gt;（零件编号、名称、数量、层级关系）&lt;br&gt;审核（工艺、采购确定可用性）&lt;br&gt;技术文档&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="385" y="210" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0W0XDRW_tP-_jsXK928k-10" value="工艺路线设计和工艺参数补充&lt;br&gt;BOM结构调整&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="620" y="210" width="160" height="30" as="geometry" />
+        <mxCell id="0W0XDRW_tP-_jsXK928k-10" value="制造重组&lt;br&gt;工艺调整（工艺辅料）、工装夹具&lt;br&gt;&lt;div&gt;虚拟件、工艺件创建&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="210" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0W0XDRW_tP-_jsXK928k-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0W0XDRW_tP-_jsXK928k-13" target="0W0XDRW_tP-_jsXK928k-15">
           <mxGeometry relative="1" as="geometry" />
@@ -43,8 +43,47 @@
         <mxCell id="0W0XDRW_tP-_jsXK928k-13" value="工艺路线、工艺&lt;br&gt;作业指导书" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="840" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0W0XDRW_tP-_jsXK928k-15" value="小批量试制" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="120" width="120" height="60" as="geometry" />
+        <mxCell id="0W0XDRW_tP-_jsXK928k-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0W0XDRW_tP-_jsXK928k-15" target="0W0XDRW_tP-_jsXK928k-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0W0XDRW_tP-_jsXK928k-15" value="样机试制" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0W0XDRW_tP-_jsXK928k-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0W0XDRW_tP-_jsXK928k-17" target="0W0XDRW_tP-_jsXK928k-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0W0XDRW_tP-_jsXK928k-22" value="通过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0W0XDRW_tP-_jsXK928k-20">
+          <mxGeometry x="-0.2" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0W0XDRW_tP-_jsXK928k-17" value="性能功能测试" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0W0XDRW_tP-_jsXK928k-19" value="MES系统批量生产" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0W0XDRW_tP-_jsXK928k-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.45;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0W0XDRW_tP-_jsXK928k-17" target="0W0XDRW_tP-_jsXK928k-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="360" />
+              <mxPoint x="294" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0W0XDRW_tP-_jsXK928k-23" value="不通过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0W0XDRW_tP-_jsXK928k-21">
+          <mxGeometry x="-0.7636" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0W0XDRW_tP-_jsXK928k-24" value="&lt;div&gt;设计变更&lt;br&gt;变更影响评估&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="310" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0W0XDRW_tP-_jsXK928k-25" value="&lt;div&gt;连续运行测试&lt;br&gt;用户测试&lt;br&gt;测试报告、认证证书&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="510" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0W0XDRW_tP-_jsXK928k-26" value="工艺路线规划&lt;br&gt;工艺参数设计&lt;br&gt;设备选型&lt;br&gt;SOP制作&lt;br&gt;检验规范制作" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="220" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
