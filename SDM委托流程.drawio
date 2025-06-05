@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.1.3">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="1426" dy="863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1281" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,7 +31,7 @@
         <mxCell id="0W0XDRW_tP-_jsXK928k-7" value="EBOM转化PBOM&lt;br&gt;PBOM设计" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0W0XDRW_tP-_jsXK928k-9" value="CAD生成初始EBOM？&lt;br&gt;（零件编号、名称、数量、层级关系）&lt;br&gt;审核（工艺、采购确定可用性）&lt;br&gt;技术文档&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="0W0XDRW_tP-_jsXK928k-9" value="CAD生成初始EBOM？&lt;br&gt;（零件编号、名称、数量、层级关系）&lt;br&gt;审核（工艺、采购确定可用性）&lt;br&gt;技术文件（设计文件、技术管理文件）&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="385" y="210" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0W0XDRW_tP-_jsXK928k-10" value="制造重组&lt;br&gt;工艺调整（工艺辅料）、工装夹具&lt;br&gt;&lt;div&gt;虚拟件、工艺件创建&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
