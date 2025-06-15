@@ -534,7 +534,7 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="v42-jbXFiAW8nONoKFfQ-124" value="OBJECTHISTORY-增量" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
+        <mxCell id="v42-jbXFiAW8nONoKFfQ-124" value="OBJECTHISTORY-增量&lt;br&gt;行为关联的对象信息" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
           <mxGeometry x="730" y="-380" width="257.5" height="150" as="geometry" />
         </mxCell>
         <mxCell id="v42-jbXFiAW8nONoKFfQ-125" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="v42-jbXFiAW8nONoKFfQ-124" vertex="1">
