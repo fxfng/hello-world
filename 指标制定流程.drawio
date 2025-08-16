@@ -1,93 +1,93 @@
 <mxfile host="65bd71144e">
-    <diagram id="bdGtczyN6rqqnTrvnhU2" name="指标制定">
-        <mxGraphModel dx="1518" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <diagram id="bdGtczyN6rqqnTrvnhU2" name="指标制定流程">
+        <mxGraphModel dx="1578" dy="301" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="66" value="指标制定" style="shape=table;childLayout=tableLayout;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="1">
+                <mxCell id="66" value="指标制定" style="shape=table;childLayout=tableLayout;startSize=40;collapsible=0;recursiveResize=0;expand=0;" parent="1" vertex="1">
                     <mxGeometry x="140" y="570" width="1210" height="953.0000000000007" as="geometry"/>
                 </mxCell>
-                <mxCell id="67" value="高层管理人员" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;strokeColor=inherit;bottom=0;right=0;dropTarget=0;fontStyle=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="66">
+                <mxCell id="67" value="高层管理人员" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;strokeColor=inherit;bottom=0;right=0;dropTarget=0;fontStyle=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;" parent="66" vertex="1">
                     <mxGeometry y="40" width="1210" height="173" as="geometry"/>
                 </mxCell>
-                <mxCell id="68" value="需求提出" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="67">
+                <mxCell id="68" value="需求提出" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;" parent="67" vertex="1">
                     <mxGeometry x="40" width="193" height="173" as="geometry">
                         <mxRectangle width="193" height="173" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="83" value="提出管控要求" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="68">
+                <mxCell id="83" value="提出管控要求" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="68" vertex="1">
                     <mxGeometry x="45" y="60" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="69" value="需求沟通" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="67">
+                <mxCell id="69" value="需求沟通" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;" parent="67" vertex="1">
                     <mxGeometry x="233" width="194" height="173" as="geometry">
                         <mxRectangle width="194" height="173" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="70" value="指标定义" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="67">
+                <mxCell id="70" value="指标定义" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;" parent="67" vertex="1">
                     <mxGeometry x="427" width="193" height="173" as="geometry">
                         <mxRectangle width="193" height="173" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="101" value="指标入湖、开发" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="67">
+                <mxCell id="101" value="数据入湖、指标开发" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;" parent="67" vertex="1">
                     <mxGeometry x="620" width="193" height="173" as="geometry">
                         <mxRectangle width="193" height="173" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="105" value="指标监控与改进" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="67">
+                <mxCell id="105" value="指标展示、指标监控与业务改进" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;" parent="67" vertex="1">
                     <mxGeometry x="813" width="397" height="173" as="geometry">
                         <mxRectangle width="397" height="173" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="84" value="业务/产品负责人" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;strokeColor=inherit;bottom=0;right=0;dropTarget=0;fontStyle=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="66">
+                <mxCell id="84" value="业务/产品负责人" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;strokeColor=inherit;bottom=0;right=0;dropTarget=0;fontStyle=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;" parent="66" vertex="1">
                     <mxGeometry y="213" width="1210" height="287" as="geometry"/>
                 </mxCell>
-                <mxCell id="85" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="84">
+                <mxCell id="85" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;" parent="84" vertex="1">
                     <mxGeometry x="40" width="193" height="287" as="geometry">
                         <mxRectangle width="193" height="287" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="88" value="分解到具体的业务内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85">
+                <mxCell id="88" value="分解到具体的业务内容" style="rounded=0;whiteSpace=wrap;html=1;" parent="85" vertex="1">
                     <mxGeometry x="20" y="27" width="130" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="90" value="根据业务场景总结&lt;div&gt;关注内容&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85">
+                <mxCell id="90" value="根据&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;业务目标/战略&lt;/font&gt;&lt;div&gt;总结&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;关注内容&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="85" vertex="1">
                     <mxGeometry x="20" y="107" width="130" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="86" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="84">
+                <mxCell id="86" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;" parent="84" vertex="1">
                     <mxGeometry x="233" width="194" height="287" as="geometry">
                         <mxRectangle width="194" height="287" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="130" value="业务人员与系统负责人沟通" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="86">
+                <mxCell id="130" value="业务人员与系统负责人沟通" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="86" vertex="1">
                     <mxGeometry x="117" y="167" width="60" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="87" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="84">
+                <mxCell id="87" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;" parent="84" vertex="1">
                     <mxGeometry x="427" width="193" height="287" as="geometry">
                         <mxRectangle width="193" height="287" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="102" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="84">
+                <mxCell id="102" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;" parent="84" vertex="1">
                     <mxGeometry x="620" width="193" height="287" as="geometry">
                         <mxRectangle width="193" height="287" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="106" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="84">
+                <mxCell id="106" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;" parent="84" vertex="1">
                     <mxGeometry x="813" width="397" height="287" as="geometry">
                         <mxRectangle width="397" height="287" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="124" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;" edge="1" parent="106" source="116" target="123">
+                <mxCell id="124" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;" parent="106" source="116" target="123" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="116" value="指标的变动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="106">
+                <mxCell id="116" value="指标的变动" style="rounded=0;whiteSpace=wrap;html=1;" parent="106" vertex="1">
                     <mxGeometry x="57" y="177" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="120" style="edgeStyle=orthogonalEdgeStyle;html=1;" edge="1" parent="106" source="117" target="116">
+                <mxCell id="120" style="edgeStyle=orthogonalEdgeStyle;html=1;" parent="106" source="117" target="116" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="117" value="制定指标的月度、季度、年度目标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="106">
+                <mxCell id="117" value="制定指标的月度、季度、年度目标" style="rounded=0;whiteSpace=wrap;html=1;" parent="106" vertex="1">
                     <mxGeometry x="57" y="27" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="127" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="106" source="123" target="116">
+                <mxCell id="127" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="106" source="123" target="116" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="327" y="107"/>
@@ -95,125 +95,125 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="123" value="业务调整" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="106">
+                <mxCell id="123" value="业务调整" style="rounded=0;whiteSpace=wrap;html=1;" parent="106" vertex="1">
                     <mxGeometry x="257" y="177" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="129" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 13px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;业务变动结果&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 13px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;作用于指标的变化&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="106">
+                <mxCell id="129" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 13px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;业务变动结果&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 13px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;作用于指标的变化&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="106" vertex="1">
                     <mxGeometry x="197" y="117" width="60" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="132" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="84" source="90" target="117">
+                <mxCell id="132" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="84" source="90" target="117" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="133" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="84" source="88" target="117">
+                <mxCell id="133" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="84" source="88" target="117" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="71" value="信息系统负责人" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;strokeColor=inherit;bottom=0;right=0;dropTarget=0;fontStyle=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="66">
+                <mxCell id="71" value="信息系统负责人" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;strokeColor=inherit;bottom=0;right=0;dropTarget=0;fontStyle=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;" parent="66" vertex="1">
                     <mxGeometry y="500" width="1210" height="174" as="geometry"/>
                 </mxCell>
-                <mxCell id="72" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="71">
+                <mxCell id="72" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;" parent="71" vertex="1">
                     <mxGeometry x="40" width="193" height="174" as="geometry">
                         <mxRectangle width="193" height="174" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="73" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="71">
+                <mxCell id="73" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;" parent="71" vertex="1">
                     <mxGeometry x="233" width="194" height="174" as="geometry">
                         <mxRectangle width="194" height="174" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="91" value="对业务内容进行&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;拆解&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;形成业务指标&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="73">
+                <mxCell id="91" value="对业务内容进行&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;拆解&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(183, 183, 183));&quot;&gt;形成&lt;/font&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(253, 8, 8), rgb(183, 183, 183));&quot;&gt;业务指标&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="73" vertex="1">
                     <mxGeometry x="47" y="57" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="74" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="71">
+                <mxCell id="74" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;" parent="71" vertex="1">
                     <mxGeometry x="427" width="193" height="174" as="geometry">
                         <mxRectangle width="193" height="174" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="97" value="结合系统数据信息&lt;div&gt;进行&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;指标定义&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="74">
+                <mxCell id="97" value="结合系统数据信息&lt;div&gt;进行&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;指标定义&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="74" vertex="1">
                     <mxGeometry x="36.5" y="57" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="103" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="71">
+                <mxCell id="103" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;" parent="71" vertex="1">
                     <mxGeometry x="620" width="193" height="174" as="geometry">
                         <mxRectangle width="193" height="174" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="107" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="71">
+                <mxCell id="107" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;" parent="71" vertex="1">
                     <mxGeometry x="813" width="397" height="174" as="geometry">
                         <mxRectangle width="397" height="174" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="96" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="71" source="91" target="97">
+                <mxCell id="96" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="71" source="91" target="97" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="480" y="87" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="75" value="数据开发人员" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;strokeColor=inherit;bottom=0;right=0;dropTarget=0;fontStyle=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="66">
+                <mxCell id="75" value="数据开发人员" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;strokeColor=inherit;bottom=0;right=0;dropTarget=0;fontStyle=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;" parent="66" vertex="1">
                     <mxGeometry y="674" width="1210" height="279" as="geometry"/>
                 </mxCell>
-                <mxCell id="76" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="75">
+                <mxCell id="76" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;" parent="75" vertex="1">
                     <mxGeometry x="40" width="193" height="279" as="geometry">
                         <mxRectangle width="193" height="279" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="77" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="75">
+                <mxCell id="77" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;" parent="75" vertex="1">
                     <mxGeometry x="233" width="194" height="279" as="geometry">
                         <mxRectangle width="194" height="279" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="78" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="75">
+                <mxCell id="78" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;" parent="75" vertex="1">
                     <mxGeometry x="427" width="193" height="279" as="geometry">
                         <mxRectangle width="193" height="279" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="109" style="edgeStyle=orthogonalEdgeStyle;html=1;" edge="1" parent="78" source="98">
+                <mxCell id="109" style="edgeStyle=orthogonalEdgeStyle;html=1;" parent="78" source="98" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="243" y="87" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="98" value="根据指标定义&lt;div&gt;确定指标的底表&lt;/div&gt;&lt;div&gt;和计算逻辑&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="78">
+                <mxCell id="98" value="根据指标定义&lt;div&gt;确定指标的底表&lt;/div&gt;&lt;div&gt;和计算逻辑&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="78" vertex="1">
                     <mxGeometry x="37" y="57" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="104" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="75">
+                <mxCell id="104" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;" parent="75" vertex="1">
                     <mxGeometry x="620" width="193" height="279" as="geometry">
                         <mxRectangle width="193" height="279" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="112" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;" edge="1" parent="104" source="110" target="111">
+                <mxCell id="112" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;" parent="104" source="110" target="111" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="110" value="指标入湖" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="104">
+                <mxCell id="110" value="指标入湖" style="rounded=0;whiteSpace=wrap;html=1;" parent="104" vertex="1">
                     <mxGeometry x="50" y="57" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="111" value="指标开发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="104">
+                <mxCell id="111" value="指标开发" style="rounded=0;whiteSpace=wrap;html=1;" parent="104" vertex="1">
                     <mxGeometry x="50" y="197" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="108" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="75">
+                <mxCell id="108" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;" parent="75" vertex="1">
                     <mxGeometry x="813" width="397" height="279" as="geometry">
                         <mxRectangle width="397" height="279" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="113" value="形成指标看板/报表" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="108">
+                <mxCell id="113" value="形成指标看板/报表" style="whiteSpace=wrap;html=1;rounded=0;" parent="108" vertex="1">
                     <mxGeometry x="57" y="197" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="114" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;" edge="1" parent="75" source="111" target="113">
+                <mxCell id="114" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;" parent="75" source="111" target="113" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="89" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="66" source="83" target="88">
+                <mxCell id="89" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="66" source="83" target="88" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="92" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="66" source="88" target="91">
+                <mxCell id="92" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="66" source="88" target="91" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="340" y="560" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="93" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="66" source="90" target="91">
+                <mxCell id="93" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="66" source="90" target="91" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="340" y="560" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="100" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="66" source="97" target="98">
+                <mxCell id="100" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="66" source="97" target="98" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="115" style="edgeStyle=orthogonalEdgeStyle;html=1;" edge="1" parent="66" source="113" target="116">
+                <mxCell id="115" style="edgeStyle=orthogonalEdgeStyle;html=1;" parent="66" source="113" target="116" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="930" y="453" as="targetPoint"/>
                     </mxGeometry>
@@ -221,12 +221,80 @@
             </root>
         </mxGraphModel>
     </diagram>
-    <diagram id="5TwKb9PJhNZglycO3Frp" name="问题讨论">
-        <mxGraphModel dx="1518" dy="1557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <diagram id="JwYX_EcrT-Xsd0HGQjBa" name="目标拆解与指标确定">
+        <mxGraphModel dx="1341" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="QgtiI9aoLIbqjsKPcn_0-1" value="&lt;div&gt;2025-08-15&lt;/div&gt;&lt;div&gt;核心内容：指标数据的改善对业务部门的收益？&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;如何让&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;业务部门有动力调整业务活动进而实现指标结果的改善？&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;实施层面&lt;/div&gt;&lt;div&gt;1. 集团没有提出明确的要求，业务人员如何制定目标？&lt;/div&gt;&lt;div&gt;2. 业务主动关注的指标，但无目标时如何处理？&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;指标的疑惑&lt;/div&gt;&lt;div&gt;从PDM系统的新增物料指标&lt;/div&gt;&lt;div&gt;新增物料变多，会增加集团整体的采购、仓储、管理成本，对应而言也会增加业务公司的这些成本，从成本收益角度，各个业务公司有主动减少新增物料数量的需要。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;什么情况下需要新增物料，得列出必须新增的场景，只管控非必要、或不应该新增的场景。&lt;/div&gt;&lt;div&gt;哪些情况必须新增？&lt;/div&gt;&lt;div&gt;1. 产品升级时，必须使用新的部件来实现功能或性能升级？&lt;/div&gt;&lt;div&gt;2. 研发新产品，现有的部件没有可以匹配的，必须新增&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot;&gt;角色定位&lt;/div&gt;&lt;div style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot;&gt;各个研发系统部门的职责是什么？辅助部门 or 监督部门？&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot;&gt;辅助部门&lt;/div&gt;&lt;div style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot;&gt;1. 规范各个产品部门人员的系统使用行为，属性数据的完整性，准确性（枚举或范围值）推进整改&lt;/div&gt;&lt;div style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot;&gt;2. 信息系统功能可用性、信息系统功能丰富性，合理的定制化需求响应时间。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+                <mxCell id="jrt1ZYtOC42RSJ1PDuDm-3" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="jrt1ZYtOC42RSJ1PDuDm-1" target="jrt1ZYtOC42RSJ1PDuDm-2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="jrt1ZYtOC42RSJ1PDuDm-5" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="jrt1ZYtOC42RSJ1PDuDm-1" target="jrt1ZYtOC42RSJ1PDuDm-4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="jrt1ZYtOC42RSJ1PDuDm-1" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;目标&lt;/font&gt;&lt;/b&gt;&lt;div&gt;减少物料新增&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="210" y="70" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="jrt1ZYtOC42RSJ1PDuDm-18" style="edgeStyle=none;html=1;" edge="1" parent="1" source="jrt1ZYtOC42RSJ1PDuDm-2" target="jrt1ZYtOC42RSJ1PDuDm-14">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="jrt1ZYtOC42RSJ1PDuDm-2" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;新目标&lt;/font&gt;&lt;/b&gt;&lt;div&gt;降低类别A和类别B等的物料&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="210" y="210" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="jrt1ZYtOC42RSJ1PDuDm-7" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="jrt1ZYtOC42RSJ1PDuDm-4" target="jrt1ZYtOC42RSJ1PDuDm-6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="jrt1ZYtOC42RSJ1PDuDm-4" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;达成效果？？？&lt;/font&gt;&lt;/b&gt;&lt;div&gt;谁来判断：减低仓储、运输、管理成本？？？？&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="400" y="70" width="140" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="jrt1ZYtOC42RSJ1PDuDm-12" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="jrt1ZYtOC42RSJ1PDuDm-6" target="jrt1ZYtOC42RSJ1PDuDm-11">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="jrt1ZYtOC42RSJ1PDuDm-6" value="分析哪些类别物料的新增会导致成本增加" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="410" y="210" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="jrt1ZYtOC42RSJ1PDuDm-13" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jrt1ZYtOC42RSJ1PDuDm-11" target="jrt1ZYtOC42RSJ1PDuDm-2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="jrt1ZYtOC42RSJ1PDuDm-11" value="类别A、类别B等的物料新增导致成本增加" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="410" y="350" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="jrt1ZYtOC42RSJ1PDuDm-20" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="jrt1ZYtOC42RSJ1PDuDm-14" target="jrt1ZYtOC42RSJ1PDuDm-19">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="jrt1ZYtOC42RSJ1PDuDm-14" value="哪些场景必须新增类别A和类别B的物料" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="30" y="210" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="jrt1ZYtOC42RSJ1PDuDm-24" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;" edge="1" parent="1" source="jrt1ZYtOC42RSJ1PDuDm-16" target="jrt1ZYtOC42RSJ1PDuDm-23">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="jrt1ZYtOC42RSJ1PDuDm-26" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jrt1ZYtOC42RSJ1PDuDm-16" target="jrt1ZYtOC42RSJ1PDuDm-25">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="jrt1ZYtOC42RSJ1PDuDm-16" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;最终落地的目标&lt;/font&gt;&lt;/b&gt;&lt;div&gt;排除场景1、场景2等情况下减低类别A、类别B等的物料新增&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="210" y="350" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="jrt1ZYtOC42RSJ1PDuDm-21" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jrt1ZYtOC42RSJ1PDuDm-19" target="jrt1ZYtOC42RSJ1PDuDm-16">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="jrt1ZYtOC42RSJ1PDuDm-19" value="场景1、场景2等必须新增类别A、类别B等的物料" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="30" y="350" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="jrt1ZYtOC42RSJ1PDuDm-23" value="拆解目标形成指标&lt;div&gt;不同类别物料的新增数量&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="100" y="490" width="140" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="jrt1ZYtOC42RSJ1PDuDm-25" value="制定指标的目标值&lt;div&gt;例如：某类别新增&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;年同比&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;降低n%&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="490" width="210" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="5TwKb9PJhNZglycO3Frp" name="问题讨论">
+        <mxGraphModel dx="1341" dy="1446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="QgtiI9aoLIbqjsKPcn_0-1" value="&lt;div&gt;2025-08-15&lt;/div&gt;&lt;div&gt;核心内容：指标数据的改善对业务部门的收益？&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;如何让&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;业务部门有动力调整业务活动进而实现指标结果的改善？&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;实施层面&lt;/div&gt;&lt;div&gt;1. 集团没有提出明确的要求，业务人员如何制定目标？&lt;/div&gt;&lt;div&gt;2. 业务主动关注的指标，但无目标时如何处理？&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;指标的疑惑&lt;/div&gt;&lt;div&gt;从PDM系统的新增物料指标&lt;/div&gt;&lt;div&gt;新增物料变多，会增加集团整体的采购、仓储、管理成本，对应而言也会增加业务公司的这些成本，从成本收益角度，各个业务公司有主动减少新增物料数量的需要。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;什么情况下需要新增物料，得列出必须新增的场景，只管控非必要、或不应该新增的场景。&lt;/div&gt;&lt;div&gt;哪些情况必须新增？&lt;/div&gt;&lt;div&gt;1. 产品升级时，必须使用新的部件来实现功能或性能升级？&lt;/div&gt;&lt;div&gt;2. 研发新产品，现有的部件没有可以匹配的，必须新增&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot;&gt;角色定位&lt;/div&gt;&lt;div style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot;&gt;各个研发系统部门的职责是什么？辅助部门 or 监督部门？&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot;&gt;辅助部门&lt;/div&gt;&lt;div style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot;&gt;1. 规范各个产品部门人员的系统使用行为，属性数据的完整性，准确性（枚举或范围值）推进整改&lt;/div&gt;&lt;div style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot;&gt;2. 信息系统功能可用性、信息系统功能丰富性，合理的定制化需求响应时间。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
                     <mxGeometry x="100" y="200" width="1020" height="60" as="geometry"/>
                 </mxCell>
             </root>
